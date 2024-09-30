@@ -2,8 +2,8 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2024-09-30)
+------------------
 * Bump version to 10.0.0 (`#5 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/5>`_)
 * Apply prerelease suffix (`#4 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/4>`_)
   * Apply prerelease suffix
