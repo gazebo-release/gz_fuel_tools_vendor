@@ -2,6 +2,11 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Jetty support: 11.0.0-pre1 (`#10 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/10>`_)
+* Contributors: Steve Peters
+
 0.2.2 (2025-06-27)
 ------------------
 * Merge pull request (`#9 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/9>`_)
