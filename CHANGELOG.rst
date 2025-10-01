@@ -2,8 +2,8 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2025-10-01)
+------------------
 * Merge pull request `#12 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/12>`_ from gazebo-release/releasepy/rolling/11.0.0
   Bump version to 11.0.0
 * Bump version to 11.0.0
