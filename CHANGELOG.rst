@@ -2,8 +2,8 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.1 (2026-08-25)
+------------------
 * Upgrade to Rotary prerelease (`#13 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/13>`_)
 * Contributors: Addisu Z. Taddese
 
