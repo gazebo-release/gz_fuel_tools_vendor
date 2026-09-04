@@ -2,8 +2,8 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.5 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#14 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/14>`_)" (`#16 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/16>`_)
   * Revert "Enable Python bindings (`#14 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/14>`_)"
   This reverts commit 386e4f1ccd5d711636596594c907dd4452d3d0d5.
