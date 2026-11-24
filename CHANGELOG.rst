@@ -2,8 +2,8 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.6 (2026-11-24)
+------------------
 * Bump version to 10.1.1 (`#18 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/18>`_)
 * Contributors: Nate Koenig
 
